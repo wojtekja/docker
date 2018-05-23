@@ -1,4 +1,3 @@
 FROM suse/sles12sp3:2.0.2
 
-RUN zypper ref -s
-RUN zypper -n in vim
+ADD /root/resolv.conf /etc/resolv.conf
