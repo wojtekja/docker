@@ -1,1 +1,1 @@
-FROM php:7.0-apache
+FROM suse/sles12sp3:2.0.2
