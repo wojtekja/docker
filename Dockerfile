@@ -1,3 +1,1 @@
-FROM suse/sles12sp2:latest
-
- 
+FROM suse/sles12:latest
